@@ -1,0 +1,15 @@
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\bin\Debug\net7.0\testandoIde.exe
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\bin\Debug\net7.0\testandoIde.deps.json
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\bin\Debug\net7.0\testandoIde.runtimeconfig.json
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\bin\Debug\net7.0\testandoIde.dll
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\bin\Debug\net7.0\testandoIde.pdb
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.csproj.AssemblyReference.cache
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.AssemblyInfoInputs.cache
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.AssemblyInfo.cs
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.csproj.CoreCompileInputs.cache
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.dll
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\refint\testandoIde.dll
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.pdb
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\testandoIde.genruntimeconfig.cache
+C:\Projetos Visual Studio\porFora.Net\testandoIde\testandoIde\obj\Debug\net7.0\ref\testandoIde.dll
